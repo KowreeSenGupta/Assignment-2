@@ -1,0 +1,53 @@
+section{
+    padding-bottom: 50px;
+}
+#home{
+    background-image: url(images/header-bg.png);
+}
+img{
+    width: 100%;
+}
+#contact{
+    background-color: rgb(241, 248, 255);
+}
+.buy-now-btn{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+p{
+    color: gray;
+}
+span{
+    color: rgb(236, 201, 0);
+    font-size: bold;
+}
+.card{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    box-shadow: 8px 8px 20px gray;
+    border-radius: 10px;
+    height: 80%;
+}
+.nav-link{
+    color: gray;
+}
+#catagories{
+    text-decoration: underline;
+    text-decoration-color: goldenrod;
+}
+#bag{
+    margin-top: 40%;
+    margin-left: 30%;
+}
+#contact span{
+    color: black;
+}
+#end{
+    text-align: center;
+    color: white;
+    background-color: lightslategray;
+    padding: 10px 0px 10px 0px ;
+}
